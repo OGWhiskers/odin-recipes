@@ -1,0 +1,47 @@
+[33mcommit 028869d851124fac5d85eb92ad5ba6149181218f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: OGWhiskers <bayandadlamini02@gmail.com>
+Date:   Fri Aug 19 12:05:48 2022 +0200
+
+    Create css file style.css
+    
+    Link the files lasagna.html, index.html, grilled-chicken.html and best-
+    meatballs.html into the new style.css file.
+
+[33mcommit b068414f1b02f293025f00f75f31ee9a7a918dd0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: OGWhiskers <bayandadlamini02@gmail.com>
+Date:   Thu Aug 18 18:00:10 2022 +0200
+
+    Add similar structure from other pages
+    
+    Because most of the different recipe pages have the same structure, I
+    used the same structure from lasagna.html to the other two recipes.
+
+[33mcommit bcb09f4ffc4dc8d6742842d7b57b5137be0d8a2b[m
+Author: OGWhiskers <bayandadlamini02@gmail.com>
+Date:   Wed Aug 17 18:21:56 2022 +0200
+
+    add description, ingredients, and step sections of the lasagna page
+
+[33mcommit 77494ddc9c6c4c5e7136104d470ff6362094e8ef[m
+Author: OGWhiskers <bayandadlamini02@gmail.com>
+Date:   Wed Aug 17 15:32:12 2022 +0200
+
+    add image of lasagna on lasagna.html
+
+[33mcommit 1b5b7a287acc308192e4baf824cbef5032fcafa5[m
+Author: OGWhiskers <bayandadlamini02@gmail.com>
+Date:   Wed Aug 17 15:17:21 2022 +0200
+
+    link lasagna.html page to main index.html
+
+[33mcommit ac34147cccd4b6a3fe0d0b0029a9a68724c270a6[m
+Author: OGWhiskers <bayandadlamini02@gmail.com>
+Date:   Wed Aug 17 15:04:51 2022 +0200
+
+    add basic boilerplate for index.html
+
+[33mcommit 1b35909155f4796d877973d70b07fc8facb35cda[m
+Author: OGWhiskers <109758172+OGWhiskers@users.noreply.github.com>
+Date:   Wed Aug 17 13:12:29 2022 +0200
+
+    Initial commit
