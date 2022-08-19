@@ -10,3 +10,24 @@
     color: white;
 }
 
+.description,.ingredients,.steps {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.description {
+    font-size: 18px;
+}
+
+.ingredients {
+
+
+}
+
+.steps {
+
+}
+
+.header-2 {
+
+}
