@@ -19,17 +19,18 @@
     font-size: 18px;
 }
 
-.ingredients {
-
-
+.ingredients,.steps {
+    font-family: "Times New Roman", sans-serif;    
+    font-size: 15px;
 }
 
-.steps {
-
-}
 
 .header-2 {
-
+    font-family: "Times New Roman", sans-serif;    
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(88, 206, 252);
+    color: white;
 }
 
 .img {
